@@ -1,6 +1,6 @@
 # Todo Web Application
 
-This is a simple web application for managing your to-do lists. The application is built using JavaScript, HTML, CSS, and Express.js for the backend. MongoDB is used as the database to store your to-do items. The application is hosted in the cloud and can be accessed via [www.todo.com](http://www.todo.com).
+This is a simple web application for managing your to-do lists. The application is built using JavaScript, HTML, CSS, and Express.js for the backend. MongoDB is used as the database to store your to-do items. The application is hosted in the cloud and can be accessed via [www.todo.com](https://todo-ivcx.onrender.com/).
 
 ## Features
 
@@ -68,7 +68,7 @@ To deploy this application to a cloud server and make it accessible at [www.todo
 
 7. Install and configure a reverse proxy server like Nginx or Apache to route incoming HTTP requests to your Express.js application.
 
-8. Ensure that your server is running the application and is accessible at [www.todo.com](http://www.todo.com).
+8. Ensure that your server is running the application and is accessible at [www.todo.com](https://todo-ivcx.onrender.com/).
 
 ## Dependencies
 
