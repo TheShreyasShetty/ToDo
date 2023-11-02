@@ -52,7 +52,7 @@ To run this web application locally, follow these steps:
 
 ## Deployment
 
-To deploy this application to a cloud server and make it accessible at [www.todo.com](http://www.todo.com), you can follow these steps:
+To deploy this application to a cloud server and make it accessible at (https://todo-ivcx.onrender.com/), you can follow these steps:
 
 1. Choose a cloud hosting provider (e.g., AWS, Heroku, Azure, etc.).
 
@@ -60,7 +60,7 @@ To deploy this application to a cloud server and make it accessible at [www.todo
 
 3. Deploy your code to the cloud server.
 
-4. Configure your domain (www.todo.com) to point to the server's IP address or domain.
+4. Configure your domain (https://todo-ivcx.onrender.com/) to point to the server's IP address or domain.
 
 5. Set up the necessary environment variables for the application, such as the MongoDB URI and any other configuration variables.
 
